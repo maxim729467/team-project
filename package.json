@@ -1,18 +1,18 @@
 {
-  "name": "parcel-project-template",
+  "name": "team-project",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://Alex-Melnik94.github.io/IceCream-by-Njeen",
+  "homepage": "https://maxim729467.github.io/team-project/",
   "scripts": {
     "dev": "parcel src/*.html",
     "build": "parcel build src/*.html",
-    "predeploy": "npm run build -- --public-url /IceCream-by-Njeen/",
+    "predeploy": "npm run build -- --public-url /team-project/",
     "deploy": "gh-pages -d dist"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/goitacademy/parcel-project-template.git"
+    "url": "git+https://https://github.com/maxim729467/team-project.git"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
